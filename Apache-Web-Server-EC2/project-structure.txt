@@ -1,0 +1,9 @@
+Project Architecture
+User Browser
+     |
+     v
+Internet
+     |
+     v
+EC2 Instance (Apache Web Server)
+
